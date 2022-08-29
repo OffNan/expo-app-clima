@@ -1,2 +1,0 @@
-# App-clima---Openweather
-ExpoBentinho
